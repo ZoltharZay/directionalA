@@ -1,0 +1,3602 @@
+{
+  "Down-35.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10030245780944824,
+    "choice": "Up",
+    "correct_choice": "Down-35",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-46.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10056853294372559,
+    "choice": "Up",
+    "correct_choice": "Left-46",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-95.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.08953428268432617,
+    "choice": "Up",
+    "correct_choice": "Down-95",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Up-45.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10312581062316895,
+    "choice": "Up",
+    "correct_choice": "Up-45",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-30.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09931468963623047,
+    "choice": "Up",
+    "correct_choice": "Left-30",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-29.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09717559814453125,
+    "choice": "Unknown",
+    "correct_choice": "Down-29",
+    "is_correct": false,
+    "reasoning": "A",
+    "full_response": "A"
+  },
+  "Up-23.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09984660148620605,
+    "choice": "Right",
+    "correct_choice": "Up-23",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-15.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.1002659797668457,
+    "choice": "Up",
+    "correct_choice": "Right-15",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Up-22.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09905362129211426,
+    "choice": "Up",
+    "correct_choice": "Up-22",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-2.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09964752197265625,
+    "choice": "Up",
+    "correct_choice": "Down-2",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-41.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09910392761230469,
+    "choice": "Right",
+    "correct_choice": "Left-41",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-20.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09880256652832031,
+    "choice": "Up",
+    "correct_choice": "Right-20",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-24.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09996986389160156,
+    "choice": "Up",
+    "correct_choice": "Left-24",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Right-56.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09919190406799316,
+    "choice": "Up",
+    "correct_choice": "Right-56",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-99.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10194897651672363,
+    "choice": "Down",
+    "correct_choice": "Down-99",
+    "is_correct": false,
+    "reasoning": "Down",
+    "full_response": "Down"
+  },
+  "Up-11.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09897685050964355,
+    "choice": "Up",
+    "correct_choice": "Up-11",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Up-28.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.0985112190246582,
+    "choice": "Up",
+    "correct_choice": "Up-28",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-90.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10006523132324219,
+    "choice": "Right",
+    "correct_choice": "Down-90",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-100.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09922528266906738,
+    "choice": "Up",
+    "correct_choice": "Right-100",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Right-58.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10111594200134277,
+    "choice": "Unknown",
+    "correct_choice": "Right-58",
+    "is_correct": false,
+    "reasoning": "B",
+    "full_response": "B"
+  },
+  "Left-3.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09687328338623047,
+    "choice": "Up",
+    "correct_choice": "Left-3",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-61.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10009098052978516,
+    "choice": "Right",
+    "correct_choice": "Down-61",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Up-21.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09902834892272949,
+    "choice": "Up",
+    "correct_choice": "Up-21",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Up-53.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09892129898071289,
+    "choice": "Right",
+    "correct_choice": "Up-53",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Down-32.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09976458549499512,
+    "choice": "Up",
+    "correct_choice": "Down-32",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Right-40.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09980988502502441,
+    "choice": "Up",
+    "correct_choice": "Right-40",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-39.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09953641891479492,
+    "choice": "Up",
+    "correct_choice": "Down-39",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Up-8.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10202407836914062,
+    "choice": "Up",
+    "correct_choice": "Up-8",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Right-43.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10096073150634766,
+    "choice": "Right",
+    "correct_choice": "Right-43",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-95.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10052490234375,
+    "choice": "Up",
+    "correct_choice": "Right-95",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-57.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09982991218566895,
+    "choice": "Right",
+    "correct_choice": "Down-57",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Up-63.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09122586250305176,
+    "choice": "Right",
+    "correct_choice": "Up-63",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Up-92.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10278677940368652,
+    "choice": "Down",
+    "correct_choice": "Up-92",
+    "is_correct": false,
+    "reasoning": "Down",
+    "full_response": "Down"
+  },
+  "Left-1.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09982538223266602,
+    "choice": "Right",
+    "correct_choice": "Left-1",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Up-96.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.2991762161254883,
+    "choice": "Left",
+    "correct_choice": "Up-96",
+    "is_correct": false,
+    "reasoning": "Beeps are heard from the left.",
+    "full_response": "Beeps are heard from the left."
+  },
+  "Right-99.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10114479064941406,
+    "choice": "Down",
+    "correct_choice": "Right-99",
+    "is_correct": false,
+    "reasoning": "Down",
+    "full_response": "Down"
+  },
+  "Up-71.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09966015815734863,
+    "choice": "Up",
+    "correct_choice": "Up-71",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-64.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09952187538146973,
+    "choice": "Up",
+    "correct_choice": "Left-64",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Up-95.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10124468803405762,
+    "choice": "Right",
+    "correct_choice": "Up-95",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Down-31.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.11052489280700684,
+    "choice": "Up",
+    "correct_choice": "Down-31",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Right-39.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09783530235290527,
+    "choice": "Right",
+    "correct_choice": "Right-39",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-29.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10026788711547852,
+    "choice": "Right",
+    "correct_choice": "Left-29",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-59.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10093021392822266,
+    "choice": "Right",
+    "correct_choice": "Left-59",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-95.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09961414337158203,
+    "choice": "Up",
+    "correct_choice": "Left-95",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Up-78.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09447050094604492,
+    "choice": "Up",
+    "correct_choice": "Up-78",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Right-55.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10294079780578613,
+    "choice": "Unknown",
+    "correct_choice": "Right-55",
+    "is_correct": false,
+    "reasoning": "B",
+    "full_response": "B"
+  },
+  "Up-98.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10227084159851074,
+    "choice": "Right",
+    "correct_choice": "Up-98",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-55.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.0985419750213623,
+    "choice": "Up",
+    "correct_choice": "Left-55",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-67.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09983563423156738,
+    "choice": "Up",
+    "correct_choice": "Down-67",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-15.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.0986936092376709,
+    "choice": "Up",
+    "correct_choice": "Left-15",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-26.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09901142120361328,
+    "choice": "Up",
+    "correct_choice": "Down-26",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-3.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09985709190368652,
+    "choice": "Up",
+    "correct_choice": "Down-3",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-77.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10608863830566406,
+    "choice": "Right",
+    "correct_choice": "Down-77",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Down-76.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10322809219360352,
+    "choice": "Right",
+    "correct_choice": "Down-76",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-30.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09841632843017578,
+    "choice": "Up",
+    "correct_choice": "Right-30",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-50.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10066390037536621,
+    "choice": "Right",
+    "correct_choice": "Down-50",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-85.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09938192367553711,
+    "choice": "Right",
+    "correct_choice": "Right-85",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Up-61.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10068535804748535,
+    "choice": "Up",
+    "correct_choice": "Up-61",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Up-97.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09432721138000488,
+    "choice": "Up",
+    "correct_choice": "Up-97",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Up-72.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.1019747257232666,
+    "choice": "Right",
+    "correct_choice": "Up-72",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Down-79.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10055303573608398,
+    "choice": "Down",
+    "correct_choice": "Down-79",
+    "is_correct": false,
+    "reasoning": "Down",
+    "full_response": "Down"
+  },
+  "Left-68.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.1002054214477539,
+    "choice": "Right",
+    "correct_choice": "Left-68",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Up-52.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09911894798278809,
+    "choice": "Right",
+    "correct_choice": "Up-52",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-100.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10002422332763672,
+    "choice": "Up",
+    "correct_choice": "Left-100",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-86.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09888315200805664,
+    "choice": "Right",
+    "correct_choice": "Left-86",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-66.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.1001734733581543,
+    "choice": "Up",
+    "correct_choice": "Left-66",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Up-1.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10003471374511719,
+    "choice": "Right",
+    "correct_choice": "Up-1",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-21.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09852862358093262,
+    "choice": "Up",
+    "correct_choice": "Right-21",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-70.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09917354583740234,
+    "choice": "Up",
+    "correct_choice": "Left-70",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-27.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.28066372871398926,
+    "choice": "Right",
+    "correct_choice": "Left-27",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-47.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10201835632324219,
+    "choice": "Up",
+    "correct_choice": "Right-47",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Up-49.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.11203169822692871,
+    "choice": "Up",
+    "correct_choice": "Up-49",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-48.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10019373893737793,
+    "choice": "Up",
+    "correct_choice": "Down-48",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-35.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.0978083610534668,
+    "choice": "Up",
+    "correct_choice": "Left-35",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-93.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10048151016235352,
+    "choice": "Up",
+    "correct_choice": "Left-93",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Right-16.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.374157190322876,
+    "choice": "Right",
+    "correct_choice": "Right-16",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-8.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.105987548828125,
+    "choice": "Up",
+    "correct_choice": "Right-8",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Right-41.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10057735443115234,
+    "choice": "Up",
+    "correct_choice": "Right-41",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-53.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09938526153564453,
+    "choice": "Right",
+    "correct_choice": "Down-53",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Down-17.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09883904457092285,
+    "choice": "Up",
+    "correct_choice": "Down-17",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Right-54.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09903526306152344,
+    "choice": "Right",
+    "correct_choice": "Right-54",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Up-37.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.1002647876739502,
+    "choice": "Up",
+    "correct_choice": "Up-37",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-66.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09061598777770996,
+    "choice": "Up",
+    "correct_choice": "Down-66",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-91.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10167598724365234,
+    "choice": "Down",
+    "correct_choice": "Left-91",
+    "is_correct": false,
+    "reasoning": "Down",
+    "full_response": "Down"
+  },
+  "Left-31.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10110735893249512,
+    "choice": "Up",
+    "correct_choice": "Left-31",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Right-80.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10361933708190918,
+    "choice": "Right",
+    "correct_choice": "Right-80",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-83.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09996366500854492,
+    "choice": "Right",
+    "correct_choice": "Left-83",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Down-13.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10157537460327148,
+    "choice": "Right",
+    "correct_choice": "Down-13",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Down-33.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09970593452453613,
+    "choice": "Right",
+    "correct_choice": "Down-33",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Up-59.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09968948364257812,
+    "choice": "Up",
+    "correct_choice": "Up-59",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-63.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10068225860595703,
+    "choice": "Right",
+    "correct_choice": "Down-63",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-12.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10122799873352051,
+    "choice": "Left",
+    "correct_choice": "Right-12",
+    "is_correct": false,
+    "reasoning": "Left",
+    "full_response": "Left"
+  },
+  "Right-17.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10018277168273926,
+    "choice": "Up",
+    "correct_choice": "Right-17",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Up-60.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10114836692810059,
+    "choice": "Right",
+    "correct_choice": "Up-60",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-35.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09880447387695312,
+    "choice": "Up",
+    "correct_choice": "Right-35",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Up-66.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09952497482299805,
+    "choice": "Up",
+    "correct_choice": "Up-66",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-51.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.08970212936401367,
+    "choice": "Right",
+    "correct_choice": "Left-51",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Down-8.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10367870330810547,
+    "choice": "Up",
+    "correct_choice": "Down-8",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-12.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10328459739685059,
+    "choice": "Right",
+    "correct_choice": "Left-12",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-86.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10003852844238281,
+    "choice": "Up",
+    "correct_choice": "Right-86",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-84.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09980130195617676,
+    "choice": "Left",
+    "correct_choice": "Left-84",
+    "is_correct": false,
+    "reasoning": "Left",
+    "full_response": "Left"
+  },
+  "Left-28.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09980607032775879,
+    "choice": "Up",
+    "correct_choice": "Left-28",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Right-9.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10194039344787598,
+    "choice": "Right",
+    "correct_choice": "Right-9",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-79.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10051250457763672,
+    "choice": "Right",
+    "correct_choice": "Left-79",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-88.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.1003110408782959,
+    "choice": "Up",
+    "correct_choice": "Right-88",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-56.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09959530830383301,
+    "choice": "Up",
+    "correct_choice": "Down-56",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Right-1.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10008454322814941,
+    "choice": "Up",
+    "correct_choice": "Right-1",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-34.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09939265251159668,
+    "choice": "Right",
+    "correct_choice": "Down-34",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-90.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10040760040283203,
+    "choice": "Up",
+    "correct_choice": "Right-90",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-4.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.0995030403137207,
+    "choice": "Up",
+    "correct_choice": "Left-4",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-42.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09090113639831543,
+    "choice": "Right",
+    "correct_choice": "Down-42",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-22.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10149359703063965,
+    "choice": "Up",
+    "correct_choice": "Right-22",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-40.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09887075424194336,
+    "choice": "Up",
+    "correct_choice": "Down-40",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-1.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09754252433776855,
+    "choice": "Up",
+    "correct_choice": "Down-1",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Right-34.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10036373138427734,
+    "choice": "Right",
+    "correct_choice": "Right-34",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Down-98.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.1056220531463623,
+    "choice": "Right",
+    "correct_choice": "Down-98",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Up-100.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10068559646606445,
+    "choice": "Up",
+    "correct_choice": "Up-100",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Right-57.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09955811500549316,
+    "choice": "Right",
+    "correct_choice": "Right-57",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-67.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10138559341430664,
+    "choice": "Up",
+    "correct_choice": "Left-67",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-52.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.1006171703338623,
+    "choice": "Right",
+    "correct_choice": "Left-52",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Up-90.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10150694847106934,
+    "choice": "Right",
+    "correct_choice": "Up-90",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-69.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09987783432006836,
+    "choice": "Right",
+    "correct_choice": "Left-69",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Down-38.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09964275360107422,
+    "choice": "Right",
+    "correct_choice": "Down-38",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-25.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10002827644348145,
+    "choice": "Right",
+    "correct_choice": "Left-25",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Down-88.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09896469116210938,
+    "choice": "Unknown",
+    "correct_choice": "Down-88",
+    "is_correct": false,
+    "reasoning": "B",
+    "full_response": "B"
+  },
+  "Left-76.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10077166557312012,
+    "choice": "Right",
+    "correct_choice": "Left-76",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-2.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10161256790161133,
+    "choice": "Up",
+    "correct_choice": "Right-2",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Right-89.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10271048545837402,
+    "choice": "Right",
+    "correct_choice": "Right-89",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Down-92.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10224556922912598,
+    "choice": "Down",
+    "correct_choice": "Down-92",
+    "is_correct": false,
+    "reasoning": "Down",
+    "full_response": "Down"
+  },
+  "Left-65.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09823751449584961,
+    "choice": "Right",
+    "correct_choice": "Left-65",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-37.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09934711456298828,
+    "choice": "Up",
+    "correct_choice": "Left-37",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-93.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.1005859375,
+    "choice": "Up",
+    "correct_choice": "Down-93",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Right-38.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09756135940551758,
+    "choice": "Right",
+    "correct_choice": "Right-38",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Down-24.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10004425048828125,
+    "choice": "Right",
+    "correct_choice": "Down-24",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-62.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10182547569274902,
+    "choice": "Up",
+    "correct_choice": "Right-62",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-62.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10134243965148926,
+    "choice": "Up",
+    "correct_choice": "Down-62",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-73.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10114908218383789,
+    "choice": "Up",
+    "correct_choice": "Left-73",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Right-49.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09949970245361328,
+    "choice": "Right",
+    "correct_choice": "Right-49",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-37.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09928560256958008,
+    "choice": "Up",
+    "correct_choice": "Right-37",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-38.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.08851122856140137,
+    "choice": "Right",
+    "correct_choice": "Left-38",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Down-15.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10316729545593262,
+    "choice": "Up",
+    "correct_choice": "Down-15",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-21.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10196375846862793,
+    "choice": "Up",
+    "correct_choice": "Left-21",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Right-23.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09832191467285156,
+    "choice": "Right",
+    "correct_choice": "Right-23",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Down-45.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10197973251342773,
+    "choice": "Up",
+    "correct_choice": "Down-45",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-84.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10050177574157715,
+    "choice": "Right",
+    "correct_choice": "Down-84",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-87.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10047435760498047,
+    "choice": "Right",
+    "correct_choice": "Right-87",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Down-75.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10276913642883301,
+    "choice": "Up",
+    "correct_choice": "Down-75",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Right-75.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10208272933959961,
+    "choice": "Up",
+    "correct_choice": "Right-75",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-56.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09985542297363281,
+    "choice": "Right",
+    "correct_choice": "Left-56",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Up-87.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.0994575023651123,
+    "choice": "Right",
+    "correct_choice": "Up-87",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-29.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09992027282714844,
+    "choice": "Right",
+    "correct_choice": "Right-29",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-48.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09945869445800781,
+    "choice": "Up",
+    "correct_choice": "Left-48",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Up-88.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.1018979549407959,
+    "choice": "Up",
+    "correct_choice": "Up-88",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Right-3.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09875154495239258,
+    "choice": "Up",
+    "correct_choice": "Right-3",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-86.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09847712516784668,
+    "choice": "Right",
+    "correct_choice": "Down-86",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-96.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.30330610275268555,
+    "choice": "Left",
+    "correct_choice": "Right-96",
+    "is_correct": false,
+    "reasoning": "Beeps are heard from the left.",
+    "full_response": "Beeps are heard from the left."
+  },
+  "Down-68.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.0987851619720459,
+    "choice": "Up",
+    "correct_choice": "Down-68",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Right-52.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09902381896972656,
+    "choice": "Up",
+    "correct_choice": "Right-52",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Right-14.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09865498542785645,
+    "choice": "Up",
+    "correct_choice": "Right-14",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Up-19.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09964823722839355,
+    "choice": "Up",
+    "correct_choice": "Up-19",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-33.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09906554222106934,
+    "choice": "Right",
+    "correct_choice": "Left-33",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-90.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10001158714294434,
+    "choice": "Up",
+    "correct_choice": "Left-90",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-11.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09950566291809082,
+    "choice": "Right",
+    "correct_choice": "Left-11",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-53.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09961652755737305,
+    "choice": "Up",
+    "correct_choice": "Left-53",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-89.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10137724876403809,
+    "choice": "Right",
+    "correct_choice": "Down-89",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-19.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09996652603149414,
+    "choice": "Up",
+    "correct_choice": "Left-19",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Up-17.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.0982820987701416,
+    "choice": "Up",
+    "correct_choice": "Up-17",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Right-98.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09871506690979004,
+    "choice": "Down",
+    "correct_choice": "Right-98",
+    "is_correct": false,
+    "reasoning": "Down",
+    "full_response": "Down"
+  },
+  "Down-14.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09926080703735352,
+    "choice": "Up",
+    "correct_choice": "Down-14",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-30.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09832215309143066,
+    "choice": "Up",
+    "correct_choice": "Down-30",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Up-31.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10077238082885742,
+    "choice": "Up",
+    "correct_choice": "Up-31",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-4.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10052371025085449,
+    "choice": "Up",
+    "correct_choice": "Down-4",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-27.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09929704666137695,
+    "choice": "Unknown",
+    "correct_choice": "Down-27",
+    "is_correct": false,
+    "reasoning": "A",
+    "full_response": "A"
+  },
+  "Down-21.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.0987999439239502,
+    "choice": "Up",
+    "correct_choice": "Down-21",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-60.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10080623626708984,
+    "choice": "Right",
+    "correct_choice": "Left-60",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-7.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09898066520690918,
+    "choice": "Right",
+    "correct_choice": "Left-7",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Up-70.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09989547729492188,
+    "choice": "Right",
+    "correct_choice": "Up-70",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Up-24.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10106515884399414,
+    "choice": "Right",
+    "correct_choice": "Up-24",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-85.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.1004323959350586,
+    "choice": "Right",
+    "correct_choice": "Left-85",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Down-37.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09998297691345215,
+    "choice": "Up",
+    "correct_choice": "Down-37",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Up-29.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10041356086730957,
+    "choice": "Right",
+    "correct_choice": "Up-29",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Down-51.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.08834505081176758,
+    "choice": "Right",
+    "correct_choice": "Down-51",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Up-33.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10187339782714844,
+    "choice": "Up",
+    "correct_choice": "Up-33",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Right-64.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09934020042419434,
+    "choice": "Right",
+    "correct_choice": "Right-64",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Down-78.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.1038506031036377,
+    "choice": "Right",
+    "correct_choice": "Down-78",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-42.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09718132019042969,
+    "choice": "Right",
+    "correct_choice": "Right-42",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Up-57.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10005903244018555,
+    "choice": "Right",
+    "correct_choice": "Up-57",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Down-52.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09929943084716797,
+    "choice": "Right",
+    "correct_choice": "Down-52",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Up-75.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10462784767150879,
+    "choice": "Up",
+    "correct_choice": "Up-75",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-22.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10103654861450195,
+    "choice": "Up",
+    "correct_choice": "Left-22",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-55.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09928345680236816,
+    "choice": "Up",
+    "correct_choice": "Down-55",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-73.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10017156600952148,
+    "choice": "Up",
+    "correct_choice": "Down-73",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Up-73.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09915709495544434,
+    "choice": "Up",
+    "correct_choice": "Up-73",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Up-79.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10108399391174316,
+    "choice": "Right",
+    "correct_choice": "Up-79",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Up-2.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10027384757995605,
+    "choice": "Up",
+    "correct_choice": "Up-2",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-5.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09877991676330566,
+    "choice": "Right",
+    "correct_choice": "Left-5",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Down-20.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10721111297607422,
+    "choice": "Up",
+    "correct_choice": "Down-20",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-71.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10030627250671387,
+    "choice": "Up",
+    "correct_choice": "Left-71",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Up-43.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10213613510131836,
+    "choice": "Right",
+    "correct_choice": "Up-43",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Up-55.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09768819808959961,
+    "choice": "Up",
+    "correct_choice": "Up-55",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Up-64.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09998297691345215,
+    "choice": "Right",
+    "correct_choice": "Up-64",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-16.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09894680976867676,
+    "choice": "Up",
+    "correct_choice": "Left-16",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-49.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09978771209716797,
+    "choice": "Up",
+    "correct_choice": "Down-49",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-65.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09940195083618164,
+    "choice": "Up",
+    "correct_choice": "Down-65",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-83.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09929323196411133,
+    "choice": "Right",
+    "correct_choice": "Down-83",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-59.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09966802597045898,
+    "choice": "Right",
+    "correct_choice": "Right-59",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-61.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10138773918151855,
+    "choice": "Right",
+    "correct_choice": "Right-61",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-4.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09977865219116211,
+    "choice": "Up",
+    "correct_choice": "Right-4",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-14.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09910964965820312,
+    "choice": "Up",
+    "correct_choice": "Left-14",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-9.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10149288177490234,
+    "choice": "Up",
+    "correct_choice": "Left-9",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-36.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.08880329132080078,
+    "choice": "Right",
+    "correct_choice": "Down-36",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Up-41.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10258150100708008,
+    "choice": "Right",
+    "correct_choice": "Up-41",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Up-10.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10132575035095215,
+    "choice": "Up",
+    "correct_choice": "Up-10",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Right-65.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10062432289123535,
+    "choice": "Up",
+    "correct_choice": "Right-65",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Right-78.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10070204734802246,
+    "choice": "Right",
+    "correct_choice": "Right-78",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Up-58.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10106658935546875,
+    "choice": "Up",
+    "correct_choice": "Up-58",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-81.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09983634948730469,
+    "choice": "Right",
+    "correct_choice": "Left-81",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Down-87.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10796165466308594,
+    "choice": "Unknown",
+    "correct_choice": "Down-87",
+    "is_correct": false,
+    "reasoning": "C",
+    "full_response": "C"
+  },
+  "Up-47.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10066771507263184,
+    "choice": "Up",
+    "correct_choice": "Up-47",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Up-27.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.1011650562286377,
+    "choice": "Unknown",
+    "correct_choice": "Up-27",
+    "is_correct": false,
+    "reasoning": "A",
+    "full_response": "A"
+  },
+  "Left-62.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10111808776855469,
+    "choice": "Up",
+    "correct_choice": "Left-62",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-89.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10037851333618164,
+    "choice": "Right",
+    "correct_choice": "Left-89",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Up-5.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10051250457763672,
+    "choice": "Up",
+    "correct_choice": "Up-5",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Right-81.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10059905052185059,
+    "choice": "Up",
+    "correct_choice": "Right-81",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-71.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09889602661132812,
+    "choice": "Up",
+    "correct_choice": "Down-71",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Up-50.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09217166900634766,
+    "choice": "Right",
+    "correct_choice": "Up-50",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Up-18.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10447049140930176,
+    "choice": "Up",
+    "correct_choice": "Up-18",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Right-94.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10368561744689941,
+    "choice": "Up",
+    "correct_choice": "Right-94",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Up-9.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10419869422912598,
+    "choice": "Right",
+    "correct_choice": "Up-9",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-27.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10026383399963379,
+    "choice": "Up",
+    "correct_choice": "Right-27",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-8.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10101556777954102,
+    "choice": "Up",
+    "correct_choice": "Left-8",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-91.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.13117551803588867,
+    "choice": "Unknown",
+    "correct_choice": "Down-91",
+    "is_correct": false,
+    "reasoning": "Beep",
+    "full_response": "Beep"
+  },
+  "Up-69.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10172605514526367,
+    "choice": "Up",
+    "correct_choice": "Up-69",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Up-99.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10306715965270996,
+    "choice": "Down",
+    "correct_choice": "Up-99",
+    "is_correct": false,
+    "reasoning": "Down",
+    "full_response": "Down"
+  },
+  "Up-85.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09835314750671387,
+    "choice": "Right",
+    "correct_choice": "Up-85",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Up-30.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10085654258728027,
+    "choice": "Up",
+    "correct_choice": "Up-30",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-9.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10152530670166016,
+    "choice": "Left",
+    "correct_choice": "Down-9",
+    "is_correct": false,
+    "reasoning": "Left",
+    "full_response": "Left"
+  },
+  "Right-73.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09952402114868164,
+    "choice": "Up",
+    "correct_choice": "Right-73",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Right-51.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09930706024169922,
+    "choice": "Right",
+    "correct_choice": "Right-51",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-36.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.08988308906555176,
+    "choice": "Right",
+    "correct_choice": "Left-36",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Up-65.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10225582122802734,
+    "choice": "Up",
+    "correct_choice": "Up-65",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-82.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09868478775024414,
+    "choice": "Right",
+    "correct_choice": "Down-82",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-96.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10263299942016602,
+    "choice": "Up",
+    "correct_choice": "Left-96",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Right-97.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10435748100280762,
+    "choice": "Up",
+    "correct_choice": "Right-97",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Up-12.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.1025094985961914,
+    "choice": "Right",
+    "correct_choice": "Up-12",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-71.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10060930252075195,
+    "choice": "Up",
+    "correct_choice": "Right-71",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-54.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09974026679992676,
+    "choice": "Right",
+    "correct_choice": "Down-54",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Up-91.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10217618942260742,
+    "choice": "Right",
+    "correct_choice": "Up-91",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-87.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09915375709533691,
+    "choice": "Right",
+    "correct_choice": "Left-87",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Down-72.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09946250915527344,
+    "choice": "Right",
+    "correct_choice": "Down-72",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-40.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.1008002758026123,
+    "choice": "Up",
+    "correct_choice": "Left-40",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-47.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10028457641601562,
+    "choice": "Up",
+    "correct_choice": "Left-47",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-34.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09974837303161621,
+    "choice": "Right",
+    "correct_choice": "Left-34",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-77.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10075807571411133,
+    "choice": "Right",
+    "correct_choice": "Right-77",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-45.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09522342681884766,
+    "choice": "Up",
+    "correct_choice": "Left-45",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-2.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10102295875549316,
+    "choice": "Up",
+    "correct_choice": "Left-2",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Right-76.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10486292839050293,
+    "choice": "Right",
+    "correct_choice": "Right-76",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Down-19.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10115313529968262,
+    "choice": "Up",
+    "correct_choice": "Down-19",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-60.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10170125961303711,
+    "choice": "Right",
+    "correct_choice": "Down-60",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-6.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09889578819274902,
+    "choice": "Right",
+    "correct_choice": "Right-6",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Down-16.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09997940063476562,
+    "choice": "Up",
+    "correct_choice": "Down-16",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Right-66.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09935116767883301,
+    "choice": "Up",
+    "correct_choice": "Right-66",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Up-34.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09984254837036133,
+    "choice": "Right",
+    "correct_choice": "Up-34",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Down-59.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09990787506103516,
+    "choice": "Up",
+    "correct_choice": "Down-59",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-78.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10152053833007812,
+    "choice": "Up",
+    "correct_choice": "Left-78",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Up-83.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09927678108215332,
+    "choice": "Right",
+    "correct_choice": "Up-83",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Down-18.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09978723526000977,
+    "choice": "Up",
+    "correct_choice": "Down-18",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Right-70.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09973812103271484,
+    "choice": "Up",
+    "correct_choice": "Right-70",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-61.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.0905764102935791,
+    "choice": "Right",
+    "correct_choice": "Left-61",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Up-13.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10326409339904785,
+    "choice": "Left",
+    "correct_choice": "Up-13",
+    "is_correct": false,
+    "reasoning": "Left",
+    "full_response": "Left"
+  },
+  "Left-98.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10451889038085938,
+    "choice": "Down",
+    "correct_choice": "Left-98",
+    "is_correct": false,
+    "reasoning": "Down",
+    "full_response": "Down"
+  },
+  "Right-84.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10127496719360352,
+    "choice": "Right",
+    "correct_choice": "Right-84",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Up-54.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10044336318969727,
+    "choice": "Right",
+    "correct_choice": "Up-54",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Up-25.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09940624237060547,
+    "choice": "Right",
+    "correct_choice": "Up-25",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-49.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09903073310852051,
+    "choice": "Up",
+    "correct_choice": "Left-49",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Up-74.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10326123237609863,
+    "choice": "Right",
+    "correct_choice": "Up-74",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-77.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10593461990356445,
+    "choice": "Right",
+    "correct_choice": "Left-77",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-97.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10545492172241211,
+    "choice": "Up",
+    "correct_choice": "Left-97",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Right-33.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09741401672363281,
+    "choice": "Right",
+    "correct_choice": "Right-33",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-82.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10057377815246582,
+    "choice": "Right",
+    "correct_choice": "Right-82",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Down-96.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10253381729125977,
+    "choice": "Up",
+    "correct_choice": "Down-96",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-57.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09897565841674805,
+    "choice": "Right",
+    "correct_choice": "Left-57",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-50.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09006810188293457,
+    "choice": "Right",
+    "correct_choice": "Right-50",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-50.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10214090347290039,
+    "choice": "Right",
+    "correct_choice": "Left-50",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Down-47.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09984397888183594,
+    "choice": "Up",
+    "correct_choice": "Down-47",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-58.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10160160064697266,
+    "choice": "Up",
+    "correct_choice": "Down-58",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Right-24.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09738922119140625,
+    "choice": "Right",
+    "correct_choice": "Right-24",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Down-85.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10025405883789062,
+    "choice": "Right",
+    "correct_choice": "Down-85",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-79.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10039949417114258,
+    "choice": "Right",
+    "correct_choice": "Right-79",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-58.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10099053382873535,
+    "choice": "Up",
+    "correct_choice": "Left-58",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Right-18.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09968280792236328,
+    "choice": "Up",
+    "correct_choice": "Right-18",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Right-53.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09951424598693848,
+    "choice": "Right",
+    "correct_choice": "Right-53",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Up-84.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09953641891479492,
+    "choice": "Left",
+    "correct_choice": "Up-84",
+    "is_correct": false,
+    "reasoning": "Left",
+    "full_response": "Left"
+  },
+  "Left-26.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09929800033569336,
+    "choice": "Up",
+    "correct_choice": "Left-26",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-43.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10176372528076172,
+    "choice": "Right",
+    "correct_choice": "Down-43",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Down-64.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09907174110412598,
+    "choice": "Up",
+    "correct_choice": "Down-64",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Up-40.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09972429275512695,
+    "choice": "Up",
+    "correct_choice": "Up-40",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Up-35.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09415006637573242,
+    "choice": "Up",
+    "correct_choice": "Up-35",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-17.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10030961036682129,
+    "choice": "Up",
+    "correct_choice": "Left-17",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Up-39.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09735679626464844,
+    "choice": "Up",
+    "correct_choice": "Up-39",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-41.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.11578226089477539,
+    "choice": "Right",
+    "correct_choice": "Down-41",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-80.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10212087631225586,
+    "choice": "Right",
+    "correct_choice": "Left-80",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-69.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10097384452819824,
+    "choice": "Right",
+    "correct_choice": "Right-69",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-23.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10040903091430664,
+    "choice": "Up",
+    "correct_choice": "Left-23",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-42.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10009956359863281,
+    "choice": "Right",
+    "correct_choice": "Left-42",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-48.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09969615936279297,
+    "choice": "Up",
+    "correct_choice": "Right-48",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Right-92.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10139584541320801,
+    "choice": "Up",
+    "correct_choice": "Right-92",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-94.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10104084014892578,
+    "choice": "Up",
+    "correct_choice": "Down-94",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-74.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10441064834594727,
+    "choice": "Up",
+    "correct_choice": "Left-74",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Up-94.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10145115852355957,
+    "choice": "Up",
+    "correct_choice": "Up-94",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Right-11.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09583044052124023,
+    "choice": "Up",
+    "correct_choice": "Right-11",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Up-42.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09402751922607422,
+    "choice": "Right",
+    "correct_choice": "Up-42",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Up-56.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10056304931640625,
+    "choice": "Up",
+    "correct_choice": "Up-56",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-80.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10476422309875488,
+    "choice": "Right",
+    "correct_choice": "Down-80",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Up-77.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10366463661193848,
+    "choice": "Right",
+    "correct_choice": "Up-77",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Down-81.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09649062156677246,
+    "choice": "Up",
+    "correct_choice": "Down-81",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Right-36.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09952855110168457,
+    "choice": "Right",
+    "correct_choice": "Right-36",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Up-93.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09898781776428223,
+    "choice": "Up",
+    "correct_choice": "Up-93",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-11.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09913849830627441,
+    "choice": "Up",
+    "correct_choice": "Down-11",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-10.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.100372314453125,
+    "choice": "Up",
+    "correct_choice": "Down-10",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-20.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09949898719787598,
+    "choice": "Up",
+    "correct_choice": "Left-20",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Up-38.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.0999600887298584,
+    "choice": "Up",
+    "correct_choice": "Up-38",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-94.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10164904594421387,
+    "choice": "Right",
+    "correct_choice": "Left-94",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-72.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09984445571899414,
+    "choice": "Right",
+    "correct_choice": "Right-72",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Up-82.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10045552253723145,
+    "choice": "Right",
+    "correct_choice": "Up-82",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Up-44.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.08963537216186523,
+    "choice": "Up",
+    "correct_choice": "Up-44",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-7.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10265231132507324,
+    "choice": "Up",
+    "correct_choice": "Down-7",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Up-6.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10021018981933594,
+    "choice": "Up",
+    "correct_choice": "Up-6",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Right-19.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10146665573120117,
+    "choice": "Up",
+    "correct_choice": "Right-19",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-75.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10376811027526855,
+    "choice": "Right",
+    "correct_choice": "Left-75",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-44.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09779739379882812,
+    "choice": "Up",
+    "correct_choice": "Left-44",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Right-60.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10095643997192383,
+    "choice": "Right",
+    "correct_choice": "Right-60",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Down-70.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09877705574035645,
+    "choice": "Up",
+    "correct_choice": "Down-70",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Up-62.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10117721557617188,
+    "choice": "Right",
+    "correct_choice": "Up-62",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-44.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10005593299865723,
+    "choice": "Up",
+    "correct_choice": "Right-44",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-13.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10126352310180664,
+    "choice": "Right",
+    "correct_choice": "Left-13",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Up-67.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.1003108024597168,
+    "choice": "Right",
+    "correct_choice": "Up-67",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Up-26.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09918355941772461,
+    "choice": "Up",
+    "correct_choice": "Up-26",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Right-32.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09950852394104004,
+    "choice": "Up",
+    "correct_choice": "Right-32",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Right-91.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09839653968811035,
+    "choice": "Down",
+    "correct_choice": "Right-91",
+    "is_correct": false,
+    "reasoning": "Down",
+    "full_response": "Down"
+  },
+  "Up-14.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09055805206298828,
+    "choice": "Up",
+    "correct_choice": "Up-14",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-32.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.1005702018737793,
+    "choice": "Up",
+    "correct_choice": "Left-32",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-100.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10029339790344238,
+    "choice": "Up",
+    "correct_choice": "Down-100",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Right-13.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10105633735656738,
+    "choice": "Right",
+    "correct_choice": "Right-13",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Down-97.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.1044926643371582,
+    "choice": "Up",
+    "correct_choice": "Down-97",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-39.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.1000676155090332,
+    "choice": "Right",
+    "correct_choice": "Left-39",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-67.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10028910636901855,
+    "choice": "Up",
+    "correct_choice": "Right-67",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Right-28.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09987163543701172,
+    "choice": "Up",
+    "correct_choice": "Right-28",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-23.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10077643394470215,
+    "choice": "Right",
+    "correct_choice": "Down-23",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-45.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10058021545410156,
+    "choice": "Right",
+    "correct_choice": "Right-45",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-7.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.0995180606842041,
+    "choice": "Right",
+    "correct_choice": "Right-7",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Up-32.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09987449645996094,
+    "choice": "Up",
+    "correct_choice": "Up-32",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Right-68.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.0996866226196289,
+    "choice": "Right",
+    "correct_choice": "Right-68",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-31.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10039448738098145,
+    "choice": "Up",
+    "correct_choice": "Right-31",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-74.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09324169158935547,
+    "choice": "Right",
+    "correct_choice": "Down-74",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Up-36.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10175037384033203,
+    "choice": "Right",
+    "correct_choice": "Up-36",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-5.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10000491142272949,
+    "choice": "Up",
+    "correct_choice": "Right-5",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Up-68.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09950590133666992,
+    "choice": "Up",
+    "correct_choice": "Up-68",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Right-46.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09963226318359375,
+    "choice": "Up",
+    "correct_choice": "Right-46",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-18.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.0993340015411377,
+    "choice": "Up",
+    "correct_choice": "Left-18",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-10.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10023927688598633,
+    "choice": "Right",
+    "correct_choice": "Left-10",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Down-12.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10016775131225586,
+    "choice": "Right",
+    "correct_choice": "Down-12",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-92.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10064554214477539,
+    "choice": "Down",
+    "correct_choice": "Left-92",
+    "is_correct": false,
+    "reasoning": "Down",
+    "full_response": "Down"
+  },
+  "Right-83.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09948539733886719,
+    "choice": "Right",
+    "correct_choice": "Right-83",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Up-4.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10036015510559082,
+    "choice": "Up",
+    "correct_choice": "Up-4",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Up-46.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10046839714050293,
+    "choice": "Up",
+    "correct_choice": "Up-46",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-82.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10037064552307129,
+    "choice": "Right",
+    "correct_choice": "Left-82",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-10.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10075569152832031,
+    "choice": "Right",
+    "correct_choice": "Right-10",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Up-81.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09791898727416992,
+    "choice": "Right",
+    "correct_choice": "Up-81",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-99.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09694790840148926,
+    "choice": "Down",
+    "correct_choice": "Left-99",
+    "is_correct": false,
+    "reasoning": "Down",
+    "full_response": "Down"
+  },
+  "Up-48.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10419344902038574,
+    "choice": "Up",
+    "correct_choice": "Up-48",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-6.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09969139099121094,
+    "choice": "Right",
+    "correct_choice": "Left-6",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-25.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10051751136779785,
+    "choice": "Right",
+    "correct_choice": "Right-25",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Down-5.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09918498992919922,
+    "choice": "Up",
+    "correct_choice": "Down-5",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Right-93.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10015273094177246,
+    "choice": "Up",
+    "correct_choice": "Right-93",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-46.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10036826133728027,
+    "choice": "Up",
+    "correct_choice": "Down-46",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Up-15.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09960603713989258,
+    "choice": "Up",
+    "correct_choice": "Up-15",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-43.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10161161422729492,
+    "choice": "Up",
+    "correct_choice": "Left-43",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-88.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10171365737915039,
+    "choice": "Up",
+    "correct_choice": "Left-88",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Up-7.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.0991971492767334,
+    "choice": "Up",
+    "correct_choice": "Up-7",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Up-86.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.0996088981628418,
+    "choice": "Right",
+    "correct_choice": "Up-86",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-26.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09821462631225586,
+    "choice": "Up",
+    "correct_choice": "Right-26",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-22.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10062098503112793,
+    "choice": "Up",
+    "correct_choice": "Down-22",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-28.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09140276908874512,
+    "choice": "Right",
+    "correct_choice": "Down-28",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Up-3.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10209465026855469,
+    "choice": "Up",
+    "correct_choice": "Up-3",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Up-16.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09767889976501465,
+    "choice": "Up",
+    "correct_choice": "Up-16",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Up-51.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10011720657348633,
+    "choice": "Right",
+    "correct_choice": "Up-51",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Up-89.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10158395767211914,
+    "choice": "Right",
+    "correct_choice": "Up-89",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Down-25.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09974861145019531,
+    "choice": "Right",
+    "correct_choice": "Down-25",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Up-20.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09952616691589355,
+    "choice": "Up",
+    "correct_choice": "Up-20",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Up-80.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10229849815368652,
+    "choice": "Right",
+    "correct_choice": "Up-80",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-63.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10148429870605469,
+    "choice": "Right",
+    "correct_choice": "Left-63",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Down-6.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09919619560241699,
+    "choice": "Up",
+    "correct_choice": "Down-6",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Right-63.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10038495063781738,
+    "choice": "Right",
+    "correct_choice": "Right-63",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-54.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09973692893981934,
+    "choice": "Right",
+    "correct_choice": "Left-54",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Down-69.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09930276870727539,
+    "choice": "Up",
+    "correct_choice": "Down-69",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Down-44.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.1011054515838623,
+    "choice": "Up",
+    "correct_choice": "Down-44",
+    "is_correct": false,
+    "reasoning": "Up",
+    "full_response": "Up"
+  },
+  "Left-72.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.09810686111450195,
+    "choice": "Right",
+    "correct_choice": "Left-72",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-74.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10057234764099121,
+    "choice": "Right",
+    "correct_choice": "Right-74",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Up-76.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Left, Right, Up, Down \n\n Provide your choice: ",
+    "processing_time": 0.10312581062316895,
+    "choice": "Right",
+    "correct_choice": "Up-76",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  }
+}

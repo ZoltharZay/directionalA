@@ -1,0 +1,1802 @@
+{
+  "Left-35.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 1.3528871536254883,
+    "choice": "Right",
+    "correct_choice": "Left-35",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-34.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.10432004928588867,
+    "choice": "Right",
+    "correct_choice": "Right-34",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-5.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11313319206237793,
+    "choice": "Right",
+    "correct_choice": "Left-5",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-100.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11763739585876465,
+    "choice": "Right",
+    "correct_choice": "Left-100",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-17.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11580848693847656,
+    "choice": "Right",
+    "correct_choice": "Left-17",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-6.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11340689659118652,
+    "choice": "Right",
+    "correct_choice": "Right-6",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-75.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.13054680824279785,
+    "choice": "Right",
+    "correct_choice": "Right-75",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-20.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.1149284839630127,
+    "choice": "Right",
+    "correct_choice": "Right-20",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-24.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11061739921569824,
+    "choice": "Right",
+    "correct_choice": "Left-24",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-87.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.1128075122833252,
+    "choice": "Left",
+    "correct_choice": "Right-87",
+    "is_correct": false,
+    "reasoning": "Left",
+    "full_response": "Left"
+  },
+  "Right-66.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.114166259765625,
+    "choice": "Right",
+    "correct_choice": "Right-66",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-12.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.1332995891571045,
+    "choice": "Right",
+    "correct_choice": "Left-12",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-47.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.12345504760742188,
+    "choice": "Right",
+    "correct_choice": "Right-47",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-73.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11295199394226074,
+    "choice": "Right",
+    "correct_choice": "Left-73",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-48.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.10641264915466309,
+    "choice": "Right",
+    "correct_choice": "Left-48",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-1.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11339640617370605,
+    "choice": "Right",
+    "correct_choice": "Left-1",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-83.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11602950096130371,
+    "choice": "Left",
+    "correct_choice": "Right-83",
+    "is_correct": false,
+    "reasoning": "Left",
+    "full_response": "Left"
+  },
+  "Right-86.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.1114964485168457,
+    "choice": "Right",
+    "correct_choice": "Right-86",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-51.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.10876798629760742,
+    "choice": "Right",
+    "correct_choice": "Right-51",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-23.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.10843229293823242,
+    "choice": "Right",
+    "correct_choice": "Left-23",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-52.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.10885334014892578,
+    "choice": "Right",
+    "correct_choice": "Right-52",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-95.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.1301100254058838,
+    "choice": "Right",
+    "correct_choice": "Left-95",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-33.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11323142051696777,
+    "choice": "Right",
+    "correct_choice": "Right-33",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-71.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11008715629577637,
+    "choice": "Right",
+    "correct_choice": "Left-71",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-11.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.10895681381225586,
+    "choice": "Right",
+    "correct_choice": "Right-11",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-99.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.12312579154968262,
+    "choice": "Right",
+    "correct_choice": "Right-99",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-40.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11255407333374023,
+    "choice": "Right",
+    "correct_choice": "Left-40",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-94.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.13299989700317383,
+    "choice": "Right",
+    "correct_choice": "Left-94",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-68.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11915326118469238,
+    "choice": "Right",
+    "correct_choice": "Right-68",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-93.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.12437915802001953,
+    "choice": "Right",
+    "correct_choice": "Left-93",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-49.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11869168281555176,
+    "choice": "Right",
+    "correct_choice": "Right-49",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-54.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11604952812194824,
+    "choice": "Right",
+    "correct_choice": "Right-54",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-30.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11023759841918945,
+    "choice": "Right",
+    "correct_choice": "Left-30",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-97.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.12930512428283691,
+    "choice": "Right",
+    "correct_choice": "Left-97",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-45.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11417865753173828,
+    "choice": "Right",
+    "correct_choice": "Left-45",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-3.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.10692548751831055,
+    "choice": "Left",
+    "correct_choice": "Left-3",
+    "is_correct": false,
+    "reasoning": "Left",
+    "full_response": "Left"
+  },
+  "Right-12.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.1191861629486084,
+    "choice": "Right",
+    "correct_choice": "Right-12",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-9.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.1304783821105957,
+    "choice": "Right",
+    "correct_choice": "Right-9",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-35.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.10985302925109863,
+    "choice": "Right",
+    "correct_choice": "Right-35",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-42.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.10700464248657227,
+    "choice": "Right",
+    "correct_choice": "Right-42",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-53.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11241006851196289,
+    "choice": "Right",
+    "correct_choice": "Left-53",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-97.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.12267494201660156,
+    "choice": "Right",
+    "correct_choice": "Right-97",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-5.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11255645751953125,
+    "choice": "Right",
+    "correct_choice": "Right-5",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-92.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11685538291931152,
+    "choice": "Right",
+    "correct_choice": "Left-92",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-85.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.10568499565124512,
+    "choice": "Left",
+    "correct_choice": "Left-85",
+    "is_correct": false,
+    "reasoning": "Left",
+    "full_response": "Left"
+  },
+  "Right-30.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11430859565734863,
+    "choice": "Right",
+    "correct_choice": "Right-30",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-39.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.10742664337158203,
+    "choice": "Right",
+    "correct_choice": "Right-39",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-1.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11239027976989746,
+    "choice": "Right",
+    "correct_choice": "Right-1",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-94.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11617112159729004,
+    "choice": "Right",
+    "correct_choice": "Right-94",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-26.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.12169861793518066,
+    "choice": "Right",
+    "correct_choice": "Left-26",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-84.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11198902130126953,
+    "choice": "Left",
+    "correct_choice": "Left-84",
+    "is_correct": false,
+    "reasoning": "Left",
+    "full_response": "Left"
+  },
+  "Right-89.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.12072539329528809,
+    "choice": "Right",
+    "correct_choice": "Right-89",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-10.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.13007640838623047,
+    "choice": "Right",
+    "correct_choice": "Right-10",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-58.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.1275777816772461,
+    "choice": "Right",
+    "correct_choice": "Left-58",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-98.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.1340806484222412,
+    "choice": "Right",
+    "correct_choice": "Left-98",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-14.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11070466041564941,
+    "choice": "Right",
+    "correct_choice": "Right-14",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-61.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11707663536071777,
+    "choice": "Right",
+    "correct_choice": "Right-61",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-62.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.1291348934173584,
+    "choice": "Right",
+    "correct_choice": "Left-62",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-7.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.1090092658996582,
+    "choice": "Right",
+    "correct_choice": "Right-7",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-6.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11163592338562012,
+    "choice": "Right",
+    "correct_choice": "Left-6",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-20.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.1185760498046875,
+    "choice": "Right",
+    "correct_choice": "Left-20",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-96.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.1311640739440918,
+    "choice": "Right",
+    "correct_choice": "Left-96",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-63.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.1266345977783203,
+    "choice": "Right",
+    "correct_choice": "Right-63",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-14.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11126255989074707,
+    "choice": "Right",
+    "correct_choice": "Left-14",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-3.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.10663032531738281,
+    "choice": "Left",
+    "correct_choice": "Right-3",
+    "is_correct": false,
+    "reasoning": "Left",
+    "full_response": "Left"
+  },
+  "Left-11.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.10870218276977539,
+    "choice": "Right",
+    "correct_choice": "Left-11",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-90.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11864781379699707,
+    "choice": "Right",
+    "correct_choice": "Left-90",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-74.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.1318359375,
+    "choice": "Right",
+    "correct_choice": "Right-74",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-29.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11276674270629883,
+    "choice": "Right",
+    "correct_choice": "Right-29",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-4.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.10838532447814941,
+    "choice": "Right",
+    "correct_choice": "Right-4",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-32.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.10727190971374512,
+    "choice": "Right",
+    "correct_choice": "Right-32",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-67.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.1178123950958252,
+    "choice": "Right",
+    "correct_choice": "Left-67",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-32.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.10820841789245605,
+    "choice": "Right",
+    "correct_choice": "Left-32",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-22.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.10775518417358398,
+    "choice": "Right",
+    "correct_choice": "Right-22",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-77.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.13430309295654297,
+    "choice": "Right",
+    "correct_choice": "Left-77",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-98.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.12903523445129395,
+    "choice": "Right",
+    "correct_choice": "Right-98",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-78.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.12795448303222656,
+    "choice": "Right",
+    "correct_choice": "Right-78",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-41.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11528229713439941,
+    "choice": "Right",
+    "correct_choice": "Right-41",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-19.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11495041847229004,
+    "choice": "Right",
+    "correct_choice": "Left-19",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-4.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11155366897583008,
+    "choice": "Right",
+    "correct_choice": "Left-4",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-18.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.10866212844848633,
+    "choice": "Right",
+    "correct_choice": "Left-18",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-27.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11581134796142578,
+    "choice": "Right",
+    "correct_choice": "Left-27",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-24.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.1126871109008789,
+    "choice": "Right",
+    "correct_choice": "Right-24",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-21.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11070799827575684,
+    "choice": "Right",
+    "correct_choice": "Left-21",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-48.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11000800132751465,
+    "choice": "Right",
+    "correct_choice": "Right-48",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-15.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11091375350952148,
+    "choice": "Right",
+    "correct_choice": "Left-15",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-29.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.10716366767883301,
+    "choice": "Right",
+    "correct_choice": "Left-29",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-50.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11337471008300781,
+    "choice": "Right",
+    "correct_choice": "Right-50",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-31.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.10418844223022461,
+    "choice": "Right",
+    "correct_choice": "Right-31",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-70.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11151838302612305,
+    "choice": "Right",
+    "correct_choice": "Right-70",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-62.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.12830352783203125,
+    "choice": "Right",
+    "correct_choice": "Right-62",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-77.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.13937711715698242,
+    "choice": "Right",
+    "correct_choice": "Right-77",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-55.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11742711067199707,
+    "choice": "Right",
+    "correct_choice": "Left-55",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-2.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.10671710968017578,
+    "choice": "Right",
+    "correct_choice": "Right-2",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-79.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11446499824523926,
+    "choice": "Right",
+    "correct_choice": "Right-79",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-78.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.13236355781555176,
+    "choice": "Right",
+    "correct_choice": "Left-78",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-80.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.13178586959838867,
+    "choice": "Right",
+    "correct_choice": "Right-80",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-58.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11479997634887695,
+    "choice": "Right",
+    "correct_choice": "Right-58",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-40.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11506509780883789,
+    "choice": "Right",
+    "correct_choice": "Right-40",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-91.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11876249313354492,
+    "choice": "Right",
+    "correct_choice": "Right-91",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-34.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11276793479919434,
+    "choice": "Right",
+    "correct_choice": "Left-34",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-27.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.1129615306854248,
+    "choice": "Right",
+    "correct_choice": "Right-27",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-69.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11368465423583984,
+    "choice": "Right",
+    "correct_choice": "Right-69",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-57.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11566519737243652,
+    "choice": "Right",
+    "correct_choice": "Right-57",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-15.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11696743965148926,
+    "choice": "Right",
+    "correct_choice": "Right-15",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-79.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11446380615234375,
+    "choice": "Right",
+    "correct_choice": "Left-79",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-7.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11859130859375,
+    "choice": "Right",
+    "correct_choice": "Left-7",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-65.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11603331565856934,
+    "choice": "Right",
+    "correct_choice": "Left-65",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-65.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11265420913696289,
+    "choice": "Right",
+    "correct_choice": "Right-65",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-100.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11217808723449707,
+    "choice": "Right",
+    "correct_choice": "Right-100",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-88.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.12868666648864746,
+    "choice": "Right",
+    "correct_choice": "Left-88",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-10.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.1267554759979248,
+    "choice": "Right",
+    "correct_choice": "Left-10",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-25.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11868476867675781,
+    "choice": "Right",
+    "correct_choice": "Left-25",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-84.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11327886581420898,
+    "choice": "Right",
+    "correct_choice": "Right-84",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-36.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.10694217681884766,
+    "choice": "Right",
+    "correct_choice": "Right-36",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-92.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.13256335258483887,
+    "choice": "Right",
+    "correct_choice": "Right-92",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-9.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.1257171630859375,
+    "choice": "Right",
+    "correct_choice": "Left-9",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-76.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.13026976585388184,
+    "choice": "Right",
+    "correct_choice": "Right-76",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-25.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.12215447425842285,
+    "choice": "Right",
+    "correct_choice": "Right-25",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-76.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.13283848762512207,
+    "choice": "Right",
+    "correct_choice": "Left-76",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-96.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.13457965850830078,
+    "choice": "Right",
+    "correct_choice": "Right-96",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-23.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.1138153076171875,
+    "choice": "Right",
+    "correct_choice": "Right-23",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-17.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.10869216918945312,
+    "choice": "Right",
+    "correct_choice": "Right-17",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-72.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.10811042785644531,
+    "choice": "Right",
+    "correct_choice": "Left-72",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-69.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11460614204406738,
+    "choice": "Right",
+    "correct_choice": "Left-69",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-93.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.12294650077819824,
+    "choice": "Right",
+    "correct_choice": "Right-93",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-89.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.1197807788848877,
+    "choice": "Right",
+    "correct_choice": "Left-89",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-91.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11690402030944824,
+    "choice": "Right",
+    "correct_choice": "Left-91",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-80.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.12246084213256836,
+    "choice": "Right",
+    "correct_choice": "Left-80",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-87.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11275625228881836,
+    "choice": "Left",
+    "correct_choice": "Left-87",
+    "is_correct": false,
+    "reasoning": "Left",
+    "full_response": "Left"
+  },
+  "Right-8.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.12028264999389648,
+    "choice": "Right",
+    "correct_choice": "Right-8",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-75.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11964750289916992,
+    "choice": "Right",
+    "correct_choice": "Left-75",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-71.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.12068438529968262,
+    "choice": "Right",
+    "correct_choice": "Right-71",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-82.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11394977569580078,
+    "choice": "Left",
+    "correct_choice": "Right-82",
+    "is_correct": false,
+    "reasoning": "Left",
+    "full_response": "Left"
+  },
+  "Left-66.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.10827422142028809,
+    "choice": "Right",
+    "correct_choice": "Left-66",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-38.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.10396957397460938,
+    "choice": "Right",
+    "correct_choice": "Left-38",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-13.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11754775047302246,
+    "choice": "Right",
+    "correct_choice": "Left-13",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-81.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11303377151489258,
+    "choice": "Right",
+    "correct_choice": "Right-81",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-73.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.1145792007446289,
+    "choice": "Right",
+    "correct_choice": "Right-73",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-44.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.10615181922912598,
+    "choice": "Right",
+    "correct_choice": "Left-44",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-2.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.10652637481689453,
+    "choice": "Right",
+    "correct_choice": "Left-2",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-82.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.10648465156555176,
+    "choice": "Right",
+    "correct_choice": "Left-82",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-26.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11079788208007812,
+    "choice": "Right",
+    "correct_choice": "Right-26",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-56.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11458206176757812,
+    "choice": "Right",
+    "correct_choice": "Left-56",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-21.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11061382293701172,
+    "choice": "Right",
+    "correct_choice": "Right-21",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-53.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.10894918441772461,
+    "choice": "Right",
+    "correct_choice": "Right-53",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-74.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.1277449131011963,
+    "choice": "Right",
+    "correct_choice": "Left-74",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-56.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11404204368591309,
+    "choice": "Right",
+    "correct_choice": "Right-56",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-36.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.10833287239074707,
+    "choice": "Right",
+    "correct_choice": "Left-36",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-37.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11161923408508301,
+    "choice": "Right",
+    "correct_choice": "Left-37",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-59.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.1226046085357666,
+    "choice": "Right",
+    "correct_choice": "Right-59",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-54.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11700248718261719,
+    "choice": "Right",
+    "correct_choice": "Left-54",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-85.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.10839986801147461,
+    "choice": "Left",
+    "correct_choice": "Right-85",
+    "is_correct": false,
+    "reasoning": "Left",
+    "full_response": "Left"
+  },
+  "Left-51.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11323070526123047,
+    "choice": "Right",
+    "correct_choice": "Left-51",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-19.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11300277709960938,
+    "choice": "Right",
+    "correct_choice": "Right-19",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-38.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11227035522460938,
+    "choice": "Right",
+    "correct_choice": "Right-38",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-67.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11640095710754395,
+    "choice": "Right",
+    "correct_choice": "Right-67",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-60.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.12394905090332031,
+    "choice": "Right",
+    "correct_choice": "Left-60",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-83.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.1143646240234375,
+    "choice": "Left",
+    "correct_choice": "Left-83",
+    "is_correct": false,
+    "reasoning": "Left",
+    "full_response": "Left"
+  },
+  "Left-59.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11719775199890137,
+    "choice": "Right",
+    "correct_choice": "Left-59",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-90.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.12743568420410156,
+    "choice": "Right",
+    "correct_choice": "Right-90",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-68.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11143279075622559,
+    "choice": "Right",
+    "correct_choice": "Left-68",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-42.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11045336723327637,
+    "choice": "Right",
+    "correct_choice": "Left-42",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-63.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.12410354614257812,
+    "choice": "Right",
+    "correct_choice": "Left-63",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-72.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11316895484924316,
+    "choice": "Right",
+    "correct_choice": "Right-72",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-16.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11438107490539551,
+    "choice": "Right",
+    "correct_choice": "Right-16",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-50.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11266446113586426,
+    "choice": "Right",
+    "correct_choice": "Left-50",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-47.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.1270740032196045,
+    "choice": "Right",
+    "correct_choice": "Left-47",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-41.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.10919642448425293,
+    "choice": "Right",
+    "correct_choice": "Left-41",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-43.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.12337660789489746,
+    "choice": "Right",
+    "correct_choice": "Left-43",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-55.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11808443069458008,
+    "choice": "Right",
+    "correct_choice": "Right-55",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-33.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.1081695556640625,
+    "choice": "Right",
+    "correct_choice": "Left-33",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-64.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.10927391052246094,
+    "choice": "Right",
+    "correct_choice": "Left-64",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-28.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.10866856575012207,
+    "choice": "Right",
+    "correct_choice": "Left-28",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-60.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.1166694164276123,
+    "choice": "Right",
+    "correct_choice": "Right-60",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-88.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11646747589111328,
+    "choice": "Right",
+    "correct_choice": "Right-88",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-13.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.12916064262390137,
+    "choice": "Right",
+    "correct_choice": "Right-13",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-16.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11765265464782715,
+    "choice": "Right",
+    "correct_choice": "Left-16",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-31.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.1064000129699707,
+    "choice": "Right",
+    "correct_choice": "Left-31",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-22.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11457300186157227,
+    "choice": "Right",
+    "correct_choice": "Left-22",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-86.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.10318183898925781,
+    "choice": "Right",
+    "correct_choice": "Left-86",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-52.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11158919334411621,
+    "choice": "Right",
+    "correct_choice": "Left-52",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-99.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.12114977836608887,
+    "choice": "Right",
+    "correct_choice": "Left-99",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-64.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11555337905883789,
+    "choice": "Right",
+    "correct_choice": "Right-64",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-39.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.105682373046875,
+    "choice": "Right",
+    "correct_choice": "Left-39",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-46.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.10717391967773438,
+    "choice": "Right",
+    "correct_choice": "Right-46",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-46.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.10842704772949219,
+    "choice": "Right",
+    "correct_choice": "Left-46",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-49.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.10950469970703125,
+    "choice": "Right",
+    "correct_choice": "Left-49",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-95.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.1175844669342041,
+    "choice": "Right",
+    "correct_choice": "Right-95",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-18.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11136889457702637,
+    "choice": "Right",
+    "correct_choice": "Right-18",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-43.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.1142578125,
+    "choice": "Right",
+    "correct_choice": "Right-43",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-61.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.12831926345825195,
+    "choice": "Right",
+    "correct_choice": "Left-61",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-28.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11607599258422852,
+    "choice": "Right",
+    "correct_choice": "Right-28",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-81.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11094069480895996,
+    "choice": "Right",
+    "correct_choice": "Left-81",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-44.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.10737967491149902,
+    "choice": "Right",
+    "correct_choice": "Right-44",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-57.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.10820841789245605,
+    "choice": "Right",
+    "correct_choice": "Left-57",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-37.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.10791277885437012,
+    "choice": "Right",
+    "correct_choice": "Right-37",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-8.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11944007873535156,
+    "choice": "Right",
+    "correct_choice": "Left-8",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Right-45.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.1165010929107666,
+    "choice": "Right",
+    "correct_choice": "Right-45",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  },
+  "Left-70.wav": {
+    "prompt_passed_to_evaluator": "Estimate the 3D direction (azimuth\u00b0, elevation\u00b0) and loudness (0\u20131) of the dominant sound relative to a listener at (0,0,0) facing +Z.\n Task: Identify the direction of the audio relative to a listener at (0,0,0) facing +Z.\nOptions: Left, Right\n\n Provide your choice: ",
+    "processing_time": 0.11027884483337402,
+    "choice": "Right",
+    "correct_choice": "Left-70",
+    "is_correct": false,
+    "reasoning": "Right",
+    "full_response": "Right"
+  }
+}

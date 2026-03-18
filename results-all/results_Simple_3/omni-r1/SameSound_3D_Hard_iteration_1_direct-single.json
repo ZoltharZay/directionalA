@@ -1,0 +1,2702 @@
+{
+  "Up-down-14.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.112713098526001,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-14",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-65.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.099006414413452,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-65",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-72.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.0937914848327637,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-72",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-24.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.1047251224517822,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-24",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-67.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.239896297454834,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-67",
+    "is_correct": false,
+    "reasoning": "The direction of the audio is Forward-Backwards. If you have any other questions or need further clarification, feel free to ask.",
+    "full_response": "The direction of the audio is Forward-Backwards. If you have any other questions or need further clarification, feel free to ask."
+  },
+  "For-Back-61.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.101585865020752,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-61",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-47.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.093621015548706,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-47",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-46.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.1023521423339844,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-46",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-14.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.1066455841064453,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-14",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-74.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.0963125228881836,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-74",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-56.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.1056289672851562,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-56",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-39.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.096768617630005,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-39",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-71.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.085496425628662,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-71",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-88.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.6816530227661133,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-88",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-82.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.5595829486846924,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-82",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-54.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.5524616241455078,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-54",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-20.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.08138108253479,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-20",
+    "is_correct": false,
+    "reasoning": "Hmm, I'd say it's Forward-Backwards. What do you think?",
+    "full_response": "Hmm, I'd say it's Forward-Backwards. What do you think?"
+  },
+  "Right-Left-93.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.5660738945007324,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-93",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-3.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.0250530242919922,
+    "choice": "Right",
+    "correct_choice": "For-Back-3",
+    "is_correct": false,
+    "reasoning": "Left. What do you think?",
+    "full_response": "Hmm, I'd say it's Right-Left. What do you think?"
+  },
+  "For-Back-27.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.4741888046264648,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-27",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-20.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.0712532997131348,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-20",
+    "is_correct": false,
+    "reasoning": "Hmm, I'd say it's Forward-Backwards. What do you think?",
+    "full_response": "Hmm, I'd say it's Forward-Backwards. What do you think?"
+  },
+  "For-Back-7.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.5227372646331787,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-7",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-66.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.487839937210083,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-66",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-37.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.5730197429656982,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-37",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-57.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.5605425834655762,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-57",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-45.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.509939432144165,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-45",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-31.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.5351066589355469,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-31",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-4.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.5677802562713623,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-4",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-93.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.4339680671691895,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-93",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-98.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.4652869701385498,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-98",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-50.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.5408973693847656,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-50",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-70.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.518054723739624,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-70",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-90.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.5718638896942139,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-90",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-79.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.533843755722046,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-79",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-63.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.511587142944336,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-63",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-67.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.5343396663665771,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-67",
+    "is_correct": false,
+    "reasoning": "The direction of the audio is Forward-Backwards. If you have any other audio samples or questions, feel free to share.",
+    "full_response": "The direction of the audio is Forward-Backwards. If you have any other audio samples or questions, feel free to share."
+  },
+  "Right-Left-51.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.7621829509735107,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-51",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-77.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.040727376937866,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-77",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-1.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.036919593811035,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-1",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-84.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.4787719249725342,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-84",
+    "is_correct": false,
+    "reasoning": "Hmm, I'd say it's Forward-Backwards. What do you think?",
+    "full_response": "Hmm, I'd say it's Forward-Backwards. What do you think?"
+  },
+  "Up-down-99.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.0269110202789307,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-99",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-77.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.023205518722534,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-77",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-32.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.0270862579345703,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-32",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-87.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.4736802577972412,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-87",
+    "is_correct": false,
+    "reasoning": "Hmm, I'd say it's Forward-Backwards. What do you think?",
+    "full_response": "Hmm, I'd say it's Forward-Backwards. What do you think?"
+  },
+  "Up-down-50.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.028233051300049,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-50",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-64.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.0260562896728516,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-64",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-36.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.049450397491455,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-36",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-89.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.0331079959869385,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-89",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-80.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.0439863204956055,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-80",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-3.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.03432297706604,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-3",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-75.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.055367946624756,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-75",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-10.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.0433740615844727,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-10",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-30.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.0368025302886963,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-30",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-64.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.0379602909088135,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-64",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-20.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.4735167026519775,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-20",
+    "is_correct": false,
+    "reasoning": "Hmm, I'd say it's Forward-Backwards. What do you think?",
+    "full_response": "Hmm, I'd say it's Forward-Backwards. What do you think?"
+  },
+  "For-Back-76.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.023890495300293,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-76",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-100.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.01335072517395,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-100",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-97.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.049379825592041,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-97",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-5.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.015734910964966,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-5",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-13.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.034127712249756,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-13",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-96.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.0027973651885986,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-96",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-18.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.023451805114746,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-18",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-31.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.040698289871216,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-31",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-51.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.0264358520507812,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-51",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-34.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.0459635257720947,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-34",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-52.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.02685546875,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-52",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-9.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.046799421310425,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-9",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-91.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.0341179370880127,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-91",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-97.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.0306918621063232,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-97",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-66.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.035068988800049,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-66",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-58.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.0375962257385254,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-58",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-67.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.314545154571533,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-67",
+    "is_correct": false,
+    "reasoning": "The direction of the audio is Forward-Backwards. If you have any other audio-related questions or need further clarification, feel free to ask.",
+    "full_response": "The direction of the audio is Forward-Backwards. If you have any other audio-related questions or need further clarification, feel free to ask."
+  },
+  "Up-down-40.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.1995222568511963,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-40",
+    "is_correct": false,
+    "reasoning": "The direction of the audio is Forward-Backwards. If you have any other questions or need further clarification, feel free to ask.",
+    "full_response": "The direction of the audio is Forward-Backwards. If you have any other questions or need further clarification, feel free to ask."
+  },
+  "Up-down-83.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.4728291034698486,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-83",
+    "is_correct": false,
+    "reasoning": "Hmm, I'd say it's Forward-Backwards. What do you think?",
+    "full_response": "Hmm, I'd say it's Forward-Backwards. What do you think?"
+  },
+  "For-Back-5.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.0816876888275146,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-5",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-6.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.0379819869995117,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-6",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-33.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.042147397994995,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-33",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-86.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.0634050369262695,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-86",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-36.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.0444774627685547,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-36",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-35.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.063805341720581,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-35",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-18.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.0499095916748047,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-18",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-21.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.065901041030884,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-21",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-75.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.048135757446289,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-75",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-29.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.0507540702819824,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-29",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-47.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.028191089630127,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-47",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-23.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.053922653198242,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-23",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-54.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.0718777179718018,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-54",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-11.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.055675983428955,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-11",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-81.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.051546335220337,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-81",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-38.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.033435821533203,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-38",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-52.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.059131145477295,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-52",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-59.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.0559284687042236,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-59",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-51.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.0618860721588135,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-51",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-60.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.0634498596191406,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-60",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-69.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.052924156188965,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-69",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-44.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.064681053161621,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-44",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-26.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.0612130165100098,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-26",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-92.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.044541597366333,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-92",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-35.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.063596725463867,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-35",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-49.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.0634942054748535,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-49",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-16.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.0482704639434814,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-16",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-17.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.0775578022003174,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-17",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-19.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.4289650917053223,
+    "choice": "Right",
+    "correct_choice": "Up-down-19",
+    "is_correct": false,
+    "reasoning": "Left. What do you think?",
+    "full_response": "Hmm, I'd say it's Right-Left. What do you think?"
+  },
+  "For-Back-62.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.0727791786193848,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-62",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-24.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.052800416946411,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-24",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-43.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.0772154331207275,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-43",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-77.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.0787792205810547,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-77",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-56.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.0550947189331055,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-56",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-83.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.5055153369903564,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-83",
+    "is_correct": false,
+    "reasoning": "Hmm, I'd say it's Forward-Backwards. What do you think?",
+    "full_response": "Hmm, I'd say it's Forward-Backwards. What do you think?"
+  },
+  "Up-down-8.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.0792436599731445,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-8",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-82.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.5060429573059082,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-82",
+    "is_correct": false,
+    "reasoning": "Hmm, I'd say it's Forward-Backwards. What do you think?",
+    "full_response": "Hmm, I'd say it's Forward-Backwards. What do you think?"
+  },
+  "Up-down-95.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.075164318084717,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-95",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-37.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.0880215167999268,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-37",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-26.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.0801022052764893,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-26",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-1.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.0609853267669678,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-1",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-63.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.085806369781494,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-63",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-44.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.083408832550049,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-44",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-63.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.083815813064575,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-63",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-19.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.5098776817321777,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-19",
+    "is_correct": false,
+    "reasoning": "Hmm, I'd say it's Forward-Backwards. What do you think?",
+    "full_response": "Hmm, I'd say it's Forward-Backwards. What do you think?"
+  },
+  "For-Back-86.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.063457727432251,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-86",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-84.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.514578104019165,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-84",
+    "is_correct": false,
+    "reasoning": "Hmm, I'd say it's Forward-Backwards. What do you think?",
+    "full_response": "Hmm, I'd say it's Forward-Backwards. What do you think?"
+  },
+  "Right-Left-47.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.0838379859924316,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-47",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-15.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.091512680053711,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-15",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-13.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.5096170902252197,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-13",
+    "is_correct": false,
+    "reasoning": "Hmm, I'd say it's Forward-Backwards. What do you think?",
+    "full_response": "Hmm, I'd say it's Forward-Backwards. What do you think?"
+  },
+  "Up-down-2.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.0923900604248047,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-2",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-38.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.087557792663574,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-38",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-19.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.5137286186218262,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-19",
+    "is_correct": false,
+    "reasoning": "Hmm, I'd say it's Forward-Backwards. What do you think?",
+    "full_response": "Hmm, I'd say it's Forward-Backwards. What do you think?"
+  },
+  "Right-Left-25.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.088482618331909,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-25",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-2.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.0694077014923096,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-2",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-1.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.563762903213501,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-1",
+    "is_correct": false,
+    "reasoning": "Hmm, I'd say it's Forward-Backwards. What do you think?",
+    "full_response": "Hmm, I'd say it's Forward-Backwards. What do you think?"
+  },
+  "Up-down-3.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.444603443145752,
+    "choice": "Right",
+    "correct_choice": "Up-down-3",
+    "is_correct": false,
+    "reasoning": "Left. What do you think?",
+    "full_response": "Hmm, I'd say it's Right-Left. What do you think?"
+  },
+  "Right-Left-48.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.5169708728790283,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-48",
+    "is_correct": false,
+    "reasoning": "Hmm, I'd say it's Forward-Backwards. What do you think?",
+    "full_response": "Hmm, I'd say it's Forward-Backwards. What do you think?"
+  },
+  "For-Back-25.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.085361957550049,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-25",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-53.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.101854085922241,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-53",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-57.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.0923240184783936,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-57",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-32.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.074570894241333,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-32",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-96.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.0976150035858154,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-96",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-22.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.0948829650878906,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-22",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-65.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.0734329223632812,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-65",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-23.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.1018552780151367,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-23",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-90.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.117915153503418,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-90",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-21.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.1005196571350098,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-21",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-89.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.0935230255126953,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-89",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-12.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.079049825668335,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-12",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-75.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.108351469039917,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-75",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-68.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.0958476066589355,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-68",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-76.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 2.0256686210632324,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-76",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-41.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.5066237449645996,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-41",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-23.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.4884512424468994,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-23",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-10.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.473771095275879,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-10",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-73.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.5140790939331055,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-73",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-45.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.546417474746704,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-45",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-53.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.573699712753296,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-53",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-78.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.5617296695709229,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-78",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-84.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.1615352630615234,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-84",
+    "is_correct": false,
+    "reasoning": "Hmm, I'd say it's Forward-Backwards. What do you think?",
+    "full_response": "Hmm, I'd say it's Forward-Backwards. What do you think?"
+  },
+  "For-Back-48.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.1320929527282715,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-48",
+    "is_correct": false,
+    "reasoning": "Hmm, I'd say it's Forward-Backwards. What do you think?",
+    "full_response": "Hmm, I'd say it's Forward-Backwards. What do you think?"
+  },
+  "Right-Left-95.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.5543794631958008,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-95",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-11.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.6029889583587646,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-11",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-22.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.5517680644989014,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-22",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-46.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.5742387771606445,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-46",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-80.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.5657837390899658,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-80",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-48.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.1302299499511719,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-48",
+    "is_correct": false,
+    "reasoning": "Hmm, I'd say it's Forward-Backwards. What do you think?",
+    "full_response": "Hmm, I'd say it's Forward-Backwards. What do you think?"
+  },
+  "Right-Left-59.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.5180928707122803,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-59",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-87.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.4851233959197998,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-87",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-78.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.6692628860473633,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-78",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-52.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.7696101665496826,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-52",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-34.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.9017915725708008,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-34",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-4.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.4928011894226074,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-4",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-21.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.4504003524780273,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-21",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-43.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.4533202648162842,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-43",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-94.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.4534592628479004,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-94",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-79.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.4879522323608398,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-79",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-42.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.4849553108215332,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-42",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-61.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.4944560527801514,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-61",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-91.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.4940800666809082,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-91",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-41.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.4690985679626465,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-41",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-55.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.4820315837860107,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-55",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-55.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.3589999675750732,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-55",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-4.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.4226150512695312,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-4",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-2.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.4684782028198242,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-2",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-81.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.4761550426483154,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-81",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-86.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.4842331409454346,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-86",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-29.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.478393316268921,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-29",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-50.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.416783094406128,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-50",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-44.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.4208228588104248,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-44",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-24.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.4146411418914795,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-24",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-8.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.4909722805023193,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-8",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-39.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.4819903373718262,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-39",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-27.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.4688711166381836,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-27",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-16.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.4961521625518799,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-16",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-6.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.4994385242462158,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-6",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-34.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.4825785160064697,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-34",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-79.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.496253490447998,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-79",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-9.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.4627430438995361,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-9",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-74.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.5012612342834473,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-74",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-88.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.4705307483673096,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-88",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-93.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.3954658508300781,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-93",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-71.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.4142448902130127,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-71",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-58.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.4836170673370361,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-58",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-70.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.488049030303955,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-70",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-92.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.4864261150360107,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-92",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-28.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.4399096965789795,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-28",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-29.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.4192357063293457,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-29",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-76.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.413787841796875,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-76",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-40.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.4898011684417725,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-40",
+    "is_correct": false,
+    "reasoning": "The direction of the audio is Forward-Backwards. If you have any other audio samples or questions, feel free to share.",
+    "full_response": "The direction of the audio is Forward-Backwards. If you have any other audio samples or questions, feel free to share."
+  },
+  "For-Back-99.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.409074068069458,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-99",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-73.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.4850692749023438,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-73",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-17.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.451704978942871,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-17",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-26.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.4801597595214844,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-26",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-85.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.0411338806152344,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-85",
+    "is_correct": false,
+    "reasoning": "Hmm, I'd say it's Forward-Backwards. What do you think?",
+    "full_response": "Hmm, I'd say it's Forward-Backwards. What do you think?"
+  },
+  "Right-Left-96.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.423233985900879,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-96",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-49.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.4487197399139404,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-49",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-70.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.4603095054626465,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-70",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-9.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.4677810668945312,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-9",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-13.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.4846067428588867,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-13",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-56.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.4236021041870117,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-56",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-98.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.397583246231079,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-98",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-92.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.4227628707885742,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-92",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-39.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 1.0640370845794678,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-39",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-71.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.7006609439849854,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-71",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-58.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.6942710876464844,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-58",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-65.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.7024204730987549,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-65",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-32.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.6969399452209473,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-32",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-41.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.6973748207092285,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-41",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-27.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.6976525783538818,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-27",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-72.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.5136022567749023,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-72",
+    "is_correct": false,
+    "reasoning": "Hmm, I'd say it's Forward-Backwards. What do you think?",
+    "full_response": "Hmm, I'd say it's Forward-Backwards. What do you think?"
+  },
+  "Right-Left-17.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.6973419189453125,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-17",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-37.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.6957237720489502,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-37",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-61.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.6960413455963135,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-61",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-60.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.5124726295471191,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-60",
+    "is_correct": false,
+    "reasoning": "Hmm, I'd say it's Forward-Backwards. What do you think?",
+    "full_response": "Hmm, I'd say it's Forward-Backwards. What do you think?"
+  },
+  "For-Back-45.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.698279857635498,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-45",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-35.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.6978247165679932,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-35",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-97.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.6966640949249268,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-97",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-38.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.6949794292449951,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-38",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-100.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.6946768760681152,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-100",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-28.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.69461989402771,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-28",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-53.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.6946985721588135,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-53",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-69.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.6972689628601074,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-69",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-73.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.6974015235900879,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-73",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-87.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.51352858543396,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-87",
+    "is_correct": false,
+    "reasoning": "Hmm, I'd say it's Forward-Backwards. What do you think?",
+    "full_response": "Hmm, I'd say it's Forward-Backwards. What do you think?"
+  },
+  "Up-down-6.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.695833683013916,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-6",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-91.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.6926383972167969,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-91",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-57.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.7166292667388916,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-57",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-72.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.6955153942108154,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-72",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-46.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.6976463794708252,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-46",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-40.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.6978282928466797,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-40",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-62.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.7162725925445557,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-62",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-12.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.6959230899810791,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-12",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-8.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.6986253261566162,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-8",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-60.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.6936407089233398,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-60",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-55.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.6982810497283936,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-55",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-68.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.6918187141418457,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-68",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-78.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.6976406574249268,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-78",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-85.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.5141921043395996,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-85",
+    "is_correct": false,
+    "reasoning": "Hmm, I'd say it's Forward-Backwards. What do you think?",
+    "full_response": "Hmm, I'd say it's Forward-Backwards. What do you think?"
+  },
+  "Right-Left-33.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.7000570297241211,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-33",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-30.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.5134429931640625,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-30",
+    "is_correct": false,
+    "reasoning": "Hmm, I'd say it's Forward-Backwards. What do you think?",
+    "full_response": "Hmm, I'd say it's Forward-Backwards. What do you think?"
+  },
+  "Right-Left-99.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.7059509754180908,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-99",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-88.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.7149088382720947,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-88",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-33.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.7261972427368164,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-33",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-66.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.7844107151031494,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-66",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-7.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.8127894401550293,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-7",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-42.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.7389516830444336,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-42",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-14.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.7009892463684082,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-14",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-15.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.6986839771270752,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-15",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-54.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.7712159156799316,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-54",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-42.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.8885698318481445,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-42",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-28.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.8937110900878906,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-28",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-22.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.8831593990325928,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-22",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-30.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.8953008651733398,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-30",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-100.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.8406288623809814,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-100",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-89.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.8744990825653076,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-89",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-68.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.8936679363250732,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-68",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-7.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.8445045948028564,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-7",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-10.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.8527185916900635,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-10",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-62.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.890092134475708,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-62",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-15.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.8456897735595703,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-15",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-31.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.8940243721008301,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-31",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-74.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.8560328483581543,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-74",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-90.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.8463668823242188,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-90",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-98.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.8807945251464844,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-98",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-16.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.8420150279998779,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-16",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-82.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.857170581817627,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-82",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-85.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.6453263759613037,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-85",
+    "is_correct": false,
+    "reasoning": "Hmm, I'd say it's Forward-Backwards. What do you think?",
+    "full_response": "Hmm, I'd say it's Forward-Backwards. What do you think?"
+  },
+  "Right-Left-80.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.8731381893157959,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-80",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-69.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.8575987815856934,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-69",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-95.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.8620564937591553,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-95",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-83.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.8357555866241455,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-83",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-81.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.8555910587310791,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-81",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-25.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.8486132621765137,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-25",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-36.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.8488898277282715,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-36",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-12.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.8578848838806152,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-12",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-43.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.8399879932403564,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-43",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-18.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.8593120574951172,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-18",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-11.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.8734314441680908,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-11",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Right-Left-64.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.8627452850341797,
+    "choice": "Unknown",
+    "correct_choice": "Right-Left-64",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-49.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.8559811115264893,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-49",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-5.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.8890454769134521,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-5",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "For-Back-94.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.9054481983184814,
+    "choice": "Unknown",
+    "correct_choice": "For-Back-94",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-94.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.8536567687988281,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-94",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  },
+  "Up-down-59.wav": {
+    "prompt_passed_to_evaluator": "Task: Identify the direction of the audio.\nOptions: Right-Left, Up-Down, Forward-Backwards\n\n Provide your choice:",
+    "processing_time": 0.8563249111175537,
+    "choice": "Unknown",
+    "correct_choice": "Up-down-59",
+    "is_correct": false,
+    "reasoning": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?",
+    "full_response": "I'm not sure which direction the audio is coming from. It could be any of the options. What do you think?"
+  }
+}

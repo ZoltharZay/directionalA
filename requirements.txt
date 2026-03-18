@@ -1,0 +1,23 @@
+# requirements.txt
+
+# --- Core ---
+python-dotenv         # For loading API keys from .env file
+librosa               # For advanced audio loading and manipulation
+numpy                 # Dependency for audio processing
+soundfile             # For reading/writing audio files
+einops                # For Audio-Flamingo
+
+# --- Hugging Face Local Models ---
+torch                 # For local Hugging Face models
+torchaudio            # For audio processing with torch
+transformers          # For local models (Qwen, Step, Omni)
+accelerate            # For optimizing local model loading
+bitsandbytes          # For 8-bit/4-bit quantization (RECOMMENDED)
+
+# --- OpenAI & Compatible APIs ---
+openai                # For GPT-4o (API)
+qwen-omni-utils       # Utility for Qwen models
+
+# --- Kimi-Audio (Local) ---
+# Note: This installs directly from the GitHub repository
+git+https://github.com/MoonshotAI/Kimi-Audio.git

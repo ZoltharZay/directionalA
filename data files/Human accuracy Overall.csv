@@ -1,0 +1,5 @@
+mode,difficulty,Participant_Count,Total_Trials,Correct_Trials,Accuracy_Percent
+SameSound,Hard,24,288,133,46.18
+SameSound,Dynamic,24,144,81,56.25
+SameSound,Easy,24,96,92,95.83
+SameSound,Medium,24,192,134,69.79

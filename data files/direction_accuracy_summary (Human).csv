@@ -1,0 +1,16 @@
+Participant,difficulty,correct_answer,Participant_Count,Total_Trials,Correct_Trials,Accuracy_Percent
+Humans,Easy,Left,24,48,45,93.75
+Humans,Easy,Right,24,48,47,97.92
+Humans,Medium,Down,24,48,21,43.75
+Humans,Medium,Left,24,48,43,89.58
+Humans,Medium,Right,24,48,45,93.75
+Humans,Medium,Up,24,48,25,52.08
+Humans,Hard,Backwards,24,48,7,14.58
+Humans,Hard,Down,24,48,17,35.42
+Humans,Hard,Forward,24,48,12,25
+Humans,Hard,Left,24,48,45,93.75
+Humans,Hard,Right,24,48,42,87.5
+Humans,Hard,Up,24,48,10,20.83
+Humans,Dynamic,For-Back,24,48,27,56.25
+Humans,Dynamic,Right-Left,24,48,41,85.42
+Humans,Dynamic,Up-Down,24,48,13,27.08

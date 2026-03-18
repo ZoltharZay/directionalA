@@ -1,0 +1,16 @@
+difficulty,True Label,Predicted: Backwards,Predicted: Down,Predicted: For-Back,Predicted: Forward,Predicted: Left,Predicted: Right,Predicted: Right-Left,Predicted: Up,Predicted: Up-Down
+Easy,Left,0,0,0,0,45,3,0,0,0
+Easy,Right,0,0,0,0,1,47,0,0,0
+Medium,Down,0,21,0,0,3,1,0,23,0
+Medium,Left,0,2,0,0,43,0,0,3,0
+Medium,Right,0,1,0,0,0,45,0,2,0
+Medium,Up,0,11,0,0,0,12,0,25,0
+Hard,Backwards,7,5,0,13,10,1,0,12,0
+Hard,Down,12,17,0,6,2,1,0,10,0
+Hard,Forward,8,5,0,12,1,4,0,18,0
+Hard,Left,1,1,0,0,45,0,0,1,0
+Hard,Right,2,0,0,2,2,42,0,0,0
+Hard,Up,3,8,0,18,3,6,0,10,0
+Dynamic,For-Back,0,0,27,0,0,0,3,0,18
+Dynamic,Right-Left,0,0,4,0,0,0,41,0,3
+Dynamic,Up-Down,0,0,29,0,0,0,6,0,13
